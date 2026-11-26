@@ -1,0 +1,10 @@
+NIGHTFALL STALKER - Mod de Terror para Minecraft Forge 1.16.5 (36.2.42)
+
+1. Descomprime esta carpeta (nightfallstalker).
+2. Abre una terminal dentro de la carpeta nightfallstalker/.
+3. Ejecuta:
+   - En Linux / macOS / Termux: gradle build (o ./gradlew build)
+   - En Windows: gradlew.bat build
+4. El archivo .jar compilado quedara en:
+   build/libs/nightfallstalker-1.0.0.jar
+5. Copia ese .jar a la carpeta mods/ de tu Minecraft 1.16.5 Forge.

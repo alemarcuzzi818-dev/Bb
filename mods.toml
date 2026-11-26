@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="nightfallstalker"
+version="1.0.0"
+displayName="Nightfall Stalker"
+authors="Matias"
+description='''
+Mod de terror psicologico y acecho en la oscuridad para Minecraft 1.16.5.
+'''
+
+[[dependencies.nightfallstalker]]
+modId="forge"
+mandatory=true
+versionRange="[36.2.42,)"
+ordering="NONE"
+side="BOTH"
